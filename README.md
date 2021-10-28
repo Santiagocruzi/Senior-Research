@@ -1,4 +1,5 @@
-# Senior Research
+# Senior Research Project
+# A Comparative Study of Effectiveness Between Classical Classification Machine Learning Algorithms and Neural Networks 
  
 This is a repository to store information and code for my associate and I's senior research project. 
 
